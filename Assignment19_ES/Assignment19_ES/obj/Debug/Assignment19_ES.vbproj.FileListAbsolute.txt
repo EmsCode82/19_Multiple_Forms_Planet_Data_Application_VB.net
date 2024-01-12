@@ -1,0 +1,16 @@
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\bin\Debug\Assignment19_ES.exe.config
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\bin\Debug\Assignment19_ES.exe
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\bin\Debug\Assignment19_ES.pdb
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\bin\Debug\Assignment19_ES.xml
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.frmMain.resources
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.frmEarth.resources
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.frmMercury.resources
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.frmVenus.resources
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.Resources.resources
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.exe
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.xml
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.pdb
+C:\Users\e5sco\Desktop\Week 14\Assignment19_ES\Assignment19_ES\obj\Debug\Assignment19_ES.frmMars.resources
